@@ -38,3 +38,5 @@ Das Programm beinhaltet folgende Taylor-Reihen:
 ## Start des Programms
 
 Führe die `main()`-Methode in einer Java-Umgebung aus, um das Programm zu starten.
+
+![Screenshot 2024-10-05 124732](https://github.com/user-attachments/assets/0b278199-00e1-40f5-ba07-850e0402594d)
