@@ -1,5 +1,13 @@
 # Taylor-Reihe Berechnungen und Visualisierung
 
+
+
+
+![Screenshot 2024-10-05 125344](https://github.com/user-attachments/assets/1e205b15-0da6-4792-a4d1-ffe352f2c323)
+
+
+
+
 Dieses Java-Programm berechnet und visualisiert die Taylor-Reihen für die Funktionen Sinus, Kosinus und die Exponentialfunktion \( e^x \). Es bietet sowohl eine numerische Berechnung der Reihen als auch eine grafische Darstellung der Funktionen.
 
 ## Funktionen
@@ -38,5 +46,3 @@ Das Programm beinhaltet folgende Taylor-Reihen:
 ## Start des Programms
 
 Führe die `main()`-Methode in einer Java-Umgebung aus, um das Programm zu starten.
-
-![Screenshot 2024-10-05 125344](https://github.com/user-attachments/assets/1e205b15-0da6-4792-a4d1-ffe352f2c323)
