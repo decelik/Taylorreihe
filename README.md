@@ -7,22 +7,18 @@ Dieses Java-Programm berechnet und visualisiert die Taylor-Reihen für die Funkt
 Das Programm beinhaltet folgende Taylor-Reihen:
 
 - **Sinusreihe:**  
-  \[
-  \sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots
-  \]
+  sin(x) = x - (x^3) / 3! + (x^5) / 5! - (x^7) / 7! + ...
+
 - **Kosinusreihe:**  
-  \[
-  \cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots
-  \]
+  cos(x) = 1 - (x^2) / 2! + (x^4) / 4! - (x^6) / 6! + ...
+
 - **Exponentialreihe (Euler-Reihe):**  
-  \[
-  e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots
-  \]
+  e^x = 1 + x + (x^2) / 2! + (x^3) / 3! + ...
 
 ## Funktionsweise
 
 1. **Numerische Berechnungen**:
-   - Berechnet für eine gegebene Anzahl an Termen die Werte der Taylor-Reihen für Sinus, Kosinus und \( e^x \).
+   - Berechnet für eine gegebene Anzahl an Termen die Werte der Taylor-Reihen für Sinus, Kosinus und e^x.
    - Vergleicht die berechneten Werte mit den Standardwerten der Java `Math`-Bibliothek (`Math.sin()`, `Math.cos()`, `Math.exp()`).
 
 2. **Grafische Darstellung**:
@@ -31,7 +27,7 @@ Das Programm beinhaltet folgende Taylor-Reihen:
 
 ## Verwendung
 
-1. Beim Start des Programms werden die Werte der Taylor-Reihen für \( x = 1.0 \) mit 20 Termen berechnet und ausgegeben.
+1. Beim Start des Programms werden die Werte der Taylor-Reihen für x = 1.0 mit 20 Termen berechnet und ausgegeben.
 2. Ein GUI-Fenster öffnet sich, das die grafische Darstellung der Funktionen zeigt.
 
 ## Systemanforderungen
